@@ -1,0 +1,6 @@
+PageObject\LoginPOM.class
+StepDefinitions\GoogleSearch.class
+TestRunner\TestRunnerDemo.class
+StepDefinitions\LoginSteps.class
+StepDefinitions\Alerts.class
+StepDefinitions\WaitTypes.class

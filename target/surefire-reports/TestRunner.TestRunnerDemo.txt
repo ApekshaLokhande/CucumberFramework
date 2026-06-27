@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.TestRunnerDemo
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.181 s -- in TestRunner.TestRunnerDemo
